@@ -1,0 +1,26 @@
+{
+  "animal": [
+    {
+      "id": 1,
+      "img": "./assets/image/animal05.png",
+      "number": 1500,
+      "name": " Surgeries",
+      "des": "Our free veterinary services are available to pets whose owners are on certain means-tested benefits."
+    },
+    {
+      "id": 2,
+      "img": "./assets/image/animal06.png",
+      "number": 2500,
+      "name": "Adoption",
+      "des": "Our free veterinary services are available to pets whose owners are on certain means-tested benefits."
+    },
+    {
+      "id": 3,
+      "img": "./assets/image/animal07.png",
+      "number": 1800,
+      "name": "Care",
+      "des": "Our free veterinary services are available to pets whose owners are on certain means-tested benefits."
+    }
+  ],
+  "fav": []
+}

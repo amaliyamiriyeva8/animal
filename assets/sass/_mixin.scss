@@ -1,0 +1,29 @@
+@mixin container{
+    max-width: 1250px;
+    margin: 0 auto;
+    padding: 0px 30px;
+}
+
+@mixin image{
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@mixin image-1{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@mixin center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ @mixin between{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
